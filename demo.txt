@@ -1,0 +1,21 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting matplotlib>=3.3.3 (from -r requirements.txt (line 1))
+  Using cached matplotlib-3.9.2-cp39-cp39-macosx_11_0_arm64.whl.metadata (11 kB)
+Collecting Keras>=2.4.3 (from -r requirements.txt (line 2))
+  Using cached keras-3.6.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting gradio>=1.5.3 (from -r requirements.txt (line 3))
+  Using cached gradio-4.44.1-py3-none-any.whl.metadata (15 kB)
+Collecting numpy>=1.19.5 (from -r requirements.txt (line 4))
+  Using cached numpy-2.0.2-cp39-cp39-macosx_14_0_arm64.whl.metadata (60 kB)
+Collecting pandas~=1.2.1 (from -r requirements.txt (line 5))
+  Using cached pandas-1.2.5.tar.gz (5.5 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting scikit-learn~=0.24.1 (from -r requirements.txt (line 6))
+  Using cached scikit-learn-0.24.2.tar.gz (7.5 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'error'
